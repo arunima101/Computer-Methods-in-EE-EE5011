@@ -7,4 +7,12 @@ A course on Numerical Algorithms, offered at IIT Madras and taught by Prof Haris
 
 3. Spline Interpolation
 
-4. 
+4. Romberg Integration
+
+5. Gaussian Quadrature
+
+6. Clenshaw algorithm
+
+7. Chebyshev and Fourier Fitting
+
+
