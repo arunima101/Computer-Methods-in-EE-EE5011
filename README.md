@@ -16,3 +16,5 @@ A course on Numerical Algorithms, offered at IIT Madras and taught by Prof Haris
 7. Chebyshev and Fourier Fitting
 
 8. Minimization-1D and ND
+
+9. Random number generation, Normality tests, Monte Carlo integration.
